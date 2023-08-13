@@ -3,7 +3,7 @@
 This template should help get you started your own Portfolio
 
 ## CHECK THE LINK HERE 
-https://inspect07.github.io/fe-ems-io/
+https://daitign.github.io/syntax.io/
 
 ## Project Setup
 
