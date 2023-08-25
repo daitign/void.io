@@ -17,7 +17,7 @@
         data-aos-delay="700"
         data-aos-duration="500"
       >
-        V O I D
+      ◉◉◉
       </h4>
       <h5
         class="text-sm pb-12 f-gray dark:text-white duration-1000"
