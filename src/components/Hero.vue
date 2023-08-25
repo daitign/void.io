@@ -135,7 +135,7 @@ const isDark = useDark();
 }
 h2{
    
-    font-size: 4em;
+    font-size: 3em;
     color: rgb(35, 37, 37);
 }
 .typewriter{
