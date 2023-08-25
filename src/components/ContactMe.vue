@@ -13,9 +13,9 @@
         data-aos="fade-right"
         data-aos-duration="500"
       >
-        Although I’m not currently looking for any new opportunities, my inbox
-        is always open. Whether you have a question or just want to say hi, I’ll
-        try my best to get back to you!
+        My e-mail inbox is always available for your messages. I'll do my best
+        to respond to you, whether you have a question or simply want to say
+        hello, so please don't hesitate to get in touch with me!
       </h4>
     </div>
     <div
@@ -24,7 +24,7 @@
       data-aos-duration="500"
     >
       <button class="button dark:text-white dark:border-white w-36">
-        <a href="mailto:eman15santiago@gmail.com">Say Hi</a>
+        <a href="mailto:daitejmrk@gmail.com">Message Me</a>
       </button>
     </div>
   </div>

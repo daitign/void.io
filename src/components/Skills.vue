@@ -24,14 +24,14 @@
           <div class="flex flex-col">
             <h2 class="text-xl dark:text-white">Frontend Developer</h2>
             <span class="text-sm f-gray dark:text-white"
-              >More than 4 years</span
+              >Basic Skills About</span
             >
           </div>
         </h2>
         <div
           class="description grid grid-cols-4 gap-4 m-auto lg:px-10 px-5 pt-10"
         >
-          <div class="p-1 card-mini">
+          <!-- <div class="p-1 card-mini">
             <img
               src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"
               class="h-14"
@@ -78,7 +78,7 @@
               alt="MaterialUI"
             />
             <span class="dark:text-white">MaterialUI</span>
-          </div>
+          </div> -->
           <div class="p-1 card-mini">
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333"
@@ -127,7 +127,7 @@
           <div class="flex flex-col">
             <h2 class="text-xl dark:text-white">Backend Developer</h2>
             <span class="text-sm f-gray dark:text-white"
-              >More than 2 years</span
+              >Basic Skills About</span
             >
           </div>
         </h2>
@@ -158,7 +158,7 @@
             />
             <span class="dark:text-white">Mysql</span>
           </div>
-          <div class="p-1 card-mini">
+          <!-- <div class="p-1 card-mini">
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_A4ygFZawvqLFvYUYfssFpgwAfCGZ7Xs_Ka4hDnmgA&s"
               class="h-14"
@@ -189,7 +189,7 @@
               alt="CodeIgniter"
             />
             <span class="dark:text-white">CodeIgniter</span>
-          </div>
+          </div> -->
         </div>
       </div>
       <div
@@ -213,19 +213,19 @@
         >
           <div class="p-1 card-mini">
             <img
-              src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"
+              src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png"
               class="h-14"
-              alt="Git"
+              alt="Photoshop"
             />
-            <span class="dark:text-white">Git</span>
+            <span class="dark:text-white">Photoshop</span>
           </div>
           <div class="p-1 card-mini">
             <img
-              src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"
+              src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_word_logo_icon_145724.png"
               class="h-14"
-              alt="Jira"
+              alt="Word"
             />
-            <span class="dark:text-white">Jira</span>
+            <span class="dark:text-white">Word</span>
           </div>
           <div class="p-1 card-mini">
             <img
@@ -237,19 +237,43 @@
           </div>
           <div class="p-1 card-mini">
             <img
-              src="https://assets-global.website-files.com/60058af53d79fbd8e14841ea/6016c5d7eaca0a225f621fd0_Tg7Mrqk2.png"
+              src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png"
               class="h-14"
               alt="Webflow"
             />
-            <span class="dark:text-white">Webflow</span>
+            <span class="dark:text-white">Excel</span>
           </div>
           <div class="p-1 card-mini">
             <img
-              src="https://thumbs.dreamstime.com/b/seo-logo-magnifying-glass-search-engine-optimization-blue-yellow-red-green-color-98240334.jpg"
+              src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png"
               class="h-14"
               alt="SEO"
             />
-            <span class="dark:text-white">SEO</span>
+            <span class="dark:text-white">Canva</span>
+          </div>
+          <div class="p-1 card-mini">
+            <img
+              src="https://cdn.icon-icons.com/icons2/1104/PNG/512/networking_78934.png"
+              class="h-14"
+              alt="Cisco"
+            />
+            <span class="dark:text-white">Networking</span>
+          </div>
+          <div class="p-1 card-mini">
+            <img
+              src="https://cdn.icon-icons.com/icons2/3053/PNG/512/vegas_pro_macos_bigsur_icon_189575.png"
+              class="h-14"
+              alt="Vegas"
+            />
+            <span class="dark:text-white">Vegas Pro</span>
+          </div>
+          <div class="p-1 card-mini">
+            <img
+              src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_powerpoint_macos_bigsur_icon_189966.png"
+              class="h-14"
+              alt="Vegas"
+            />
+            <span class="dark:text-white">Powerpoint</span>
           </div>
         </div>
       </div>

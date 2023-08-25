@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-between">
     <div class="font-semibold dark:text-cyan-500 duration-1000">
-      <a href="https://github.com/inspect07" target="_blank">&#64;Inspect07</a>
+      <a href="https://github.com/daitign" target="_blank">Daitign</a>
     </div>
     <div class="flex space-x-2 items-center">
       <div :class="`mode ${isDark ? 'dark-mode' : ''}`" @click="mode">
@@ -90,6 +90,7 @@ const mode = () => {
   left: 0;
   clip-path: circle(0% at 120% 25%);
   transition: clip-path 1.8s ease;
+  background-color: #1e1e1e;
 
   &.active {
     clip-path: circle(200% at 98% 9%);

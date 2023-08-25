@@ -20,7 +20,7 @@
       >
         <img
           class="w-11/12 rounded-md drop-shadow-lg m-auto lg:m-0"
-          src="https://drive.google.com/uc?id=1yEpw7JEQ8xdE0bXUaYlPuKmQzcwB091_"
+          src="https://drive.google.com/uc?id=129um8zPgiVcif0Z7hgvbLO2fMgN_5SwM"
           alt=""
         />
       </div>
@@ -33,25 +33,24 @@
         <div
           class="cover-letter f-gray text-lg pb-7 dark:text-white text-center lg:text-left md:justify-center lg:justify-start"
         >
-          My interest in Computer Programming started back in 2011 when I decide
-          to check the elements on the browser — turns out that all the Elements
-          I see on the browser was HTML amd CSS!. Fast-forward today I'm now a
-          Frontend Developer with 4+ years work experience.
+          In 2017, I was fascinated by the workings of technology and decided to
+          pursue a career in the IT industry. I soon discovered that everything
+          I encountered online was the result of meticulously crafted lines of
+          code. Now, years later, I'm pursuing my passion for IT by earning a
+          bachelor's degree in the field.
         </div>
         <div
           class="summary-experience flex text-center justify-center lg:justify-start"
         >
           <div class="years-exp mr-5 w-2/12">
             <h2 class="text-3xl f-dark-blue font-extrabold dark:text-blue-500">
-              04+
+              4mos
             </h2>
-            <span class="text-sm f-gray dark:text-white"
-              >Years of Experience</span
-            >
+            <span class="text-sm f-gray dark:text-white">Work Experience</span>
           </div>
           <div class="projects mr-5 w-2/12">
             <h2 class="text-3xl f-dark-blue font-extrabold dark:text-blue-500">
-              10+
+              3+
             </h2>
             <span class="text-sm f-gray dark:text-white"
               >Completed projects</span
@@ -59,7 +58,7 @@
           </div>
           <div class="companies-worked mr-5 w-2/12">
             <h2 class="text-3xl f-dark-blue font-extrabold dark:text-blue-500">
-              4+
+              2+
             </h2>
             <span class="text-sm f-gray dark:text-white">Companies Worked</span>
           </div>
@@ -67,10 +66,10 @@
         <div class="resume pt-10">
           <button class="btn-accent flex items-center m-auto lg:m-0">
             <a
-              href="https://drive.google.com/file/d/1Dm9ZS4u43MveDgeK5qUwUJ5uWQwDrMy8/view?usp=sharing"
+              href="https://drive.google.com/file/d/1JsVubfoUTRKsHYsyGtfvqUi1ZYHPqs0z/view"
               target="_blank"
             >
-              Download CV&nbsp;
+              Download Resume&nbsp;
               <span
                 ><font-awesome-icon
                   class="w-4"

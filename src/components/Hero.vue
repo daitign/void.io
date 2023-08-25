@@ -7,9 +7,9 @@
         data-aos="fade-right"
         data-aos-delay="500"
         data-aos-duration="500"
-        class="text-5xl pb-3 font-extrabold f-black name dark:text-white duration-1000"
+        class="text-5xl pb-3 font-extrabold f-black name dark:text-white duration-1000 typewriter"
       >
-        Emmanuel Santiago.
+        Daite Jemark
       </h2>
       <h4
         class="text-lg pb-2 f-gray dark:text-white duration-1000"
@@ -17,7 +17,7 @@
         data-aos-delay="700"
         data-aos-duration="500"
       >
-        Fullstack Developer
+        V O I D
       </h4>
       <h5
         class="text-sm pb-12 f-gray dark:text-white duration-1000"
@@ -25,14 +25,16 @@
         data-aos-delay="800"
         data-aos-duration="500"
       >
-        I'm Experienced Front-end Developer with a demonstrated history of
-        working in the information technology and services industry. Highly
-        skilled in JavaScript(React/VueJS)
+        To use and impart my capabilities I gained to facilitate and provide
+        necessary learning required to develop and compete in today’s society. I
+        have a strong interest in all areas of work most especially with regard
+        to Information Technology. I am passionately committed to promote a
+        positive and dynamic environment in doing my job.
       </h5>
       <div data-aos="fade-right" data-aos-delay="800" data-aos-duration="700">
         <a
           class="btn-accent cursor-pointer flex items-center"
-          href="mailto:eman15santiago@gmail.com"
+          href="mailto:daitejmrk@gmail.com"
         >
           <span> Contact Me&nbsp;</span>
           <span
@@ -47,7 +49,7 @@
         data-aos-delay="1500"
         data-aos-duration="800"
         :class="`m-auto clipped light ismall img-first md:w-auto`"
-        src="https://drive.google.com/uc?id=11n9y5dk7DRezKjtNondubZi9hRJR5haE"
+        src="https://drive.google.com/uc?id=1qWAWdZrwl-NrbvLuj-e-Ctomeo27NgDO"
         alt=""
         width="400"
       />
@@ -56,7 +58,7 @@
         data-aos-delay="1700"
         data-aos-duration="800"
         class="m-auto clipped light imedium img-center md:w-auto"
-        src="https://drive.google.com/uc?id=11unOg9RI_DcEdTNc9J45XPAi_JfUQXtn"
+        src="https://drive.google.com/uc?id=1LdZ7OWPBdf8v8KF4DFSEgiM6Pio5s0MO"
         alt=""
         width="400"
       />
@@ -65,7 +67,7 @@
         data-aos-delay="1900"
         data-aos-duration="800"
         class="m-auto clipped light ismall img-last md:w-auto"
-        src="https://drive.google.com/uc?id=1efXKN_rVXqnqFgjismuQd6H3cOt2CzRx"
+        src="https://drive.google.com/uc?id=1kOYvI65kWV8InpqKMBIaZW4c0IywgL5Y"
         alt=""
         width="400"
       />
@@ -130,5 +132,32 @@ const isDark = useDark();
     filter: blur(20px);
     margin-left: 6rem;
   }
+}
+h2{
+   
+    font-size: 4em;
+    color: rgb(35, 37, 37);
+}
+.typewriter{
+    position: relative;
+}
+.typewriter::after{
+    content: '|';
+    position: absolute;
+    right: 0;
+    color: #2563eb;
+    width: 100%;
+    animation: typing 2s steps(14) alternate infinite,
+                line 1s infinite;
+}
+@keyframes typing{
+    to{
+        width: 0%;
+    }
+}
+@keyframes line {
+    50%{
+      width: 100%;
+    }
 }
 </style>

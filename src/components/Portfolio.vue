@@ -126,64 +126,65 @@ export default {
     return {
       recent_projects: [
         {
-          name: "DSG | Prolook Customizer",
-          project_link: "https://prolookteam.com/",
-          project_logo: "https://prolookteam.com/images/svg/dsg-logo.svg",
-          description: "Superior Team Apparel",
+          name: "BSIT | Project",
+          project_link: "//daitign.epizy.com",
+          project_logo:
+            "https://cdn.icon-icons.com/icons2/677/PNG/512/salt-and-pepper_icon-icons.com_60775.png",
+          description: "Hash, Salt and Pepper",
           class: "dsg",
         },
         {
-          name: "Richardson Uniform Customizer",
-          project_link: "https://m2.richardsonsports.com/uniforms",
+          name: "M5 Pharmacy",
+
           project_logo:
-            "https://m2.richardsonsports.com/pub/media/logo/stores/1/logo.gif",
-          description: "Superior Team Apparel",
+            "https://cdn.icon-icons.com/icons2/807/PNG/512/electrocardiogram_icon-icons.com_66082.png",
+          description: "Project not Hosted",
           class: "richardson",
         },
         {
-          name: "VWALA",
-          project_link: "https://www.vwa.la/#/",
+          name: "Enrollment System",
+
           project_logo:
-            "https://www.vwa.la/screen_db.847413f5fff532660865b7866e5e0564.png",
-          description: "Influencer marketing for Shopify",
+            "https://cdn.icon-icons.com/icons2/3600/PNG/512/study_science_education_school_learning_book_icon_226274.png",
+          description: "Project not Hosted",
           class: "vwala",
         },
 
-        {
-          name: "FundSpace",
-          project_link: "https://fundspace.ph/",
-          project_logo: "https://fundspace.ph/images/logo.svg",
-          description:
-            "FundSpace grants loans to businesses within one week of approval.",
-          class: "fundspace",
-        },
-        {
-          name: "Capitan PH",
-          project_link: "https://capitan.ph/",
-          project_logo: "https://capitan.ph/capitan-min.jpg",
-          description:
-            "Capitan helps SMEs grow through effective digital marketing solutions.",
-          class: "capitan",
-        },
-        {
-          name: "CMDI Learning and Development",
-          project_link:
-            "https://schoolmanagementsystem.cloud/cardtraining.center/",
-          project_logo:
-            "https://schoolmanagementsystem.cloud/cardtraining.center/assets/img/logo-card.png",
-          description:
-            "CMDI is a globally respected development institute that provides exceptional practitioner-led training and education services",
-          class: "cmdi",
-        },
-        {
-          name: "Business Monitoring System",
-          project_link:
-            "https://testapp.businessmonitoringsystem.cloud/bms-online",
-          project_logo:
-            "https://testapp.businessmonitoringsystem.cloud/img/logo-cloudbiz-bms.png",
-          description: "Application that monitors your business",
-          class: "bms",
-        },
+        // {
+        //   name: "FundSpace",
+        //   project_link: "https://fundspace.ph/",
+        //   project_logo: "https://fundspace.ph/images/logo.svg",
+        //   description:
+        //     "FundSpace grants loans to businesses within one week of approval.",
+        //   class: "fundspace",
+        // },
+        // {
+        //   name: "Capitan PH",
+        //   project_link: "https://capitan.ph/",
+        //   project_logo: "https://capitan.ph/capitan-min.jpg",
+        //   description:
+        //     "Capitan helps SMEs grow through effective digital marketing solutions.",
+        //   class: "capitan",
+        // },
+        // {
+        //   name: "CMDI Learning and Development",
+        //   project_link:
+        //     "https://schoolmanagementsystem.cloud/cardtraining.center/",
+        //   project_logo:
+        //     "https://schoolmanagementsystem.cloud/cardtraining.center/assets/img/logo-card.png",
+        //   description:
+        //     "CMDI is a globally respected development institute that provides exceptional practitioner-led training and education services",
+        //   class: "cmdi",
+        // },
+        // {
+        //   name: "Business Monitoring System",
+        //   project_link:
+        //     "https://testapp.businessmonitoringsystem.cloud/bms-online",
+        //   project_logo:
+        //     "https://testapp.businessmonitoringsystem.cloud/img/logo-cloudbiz-bms.png",
+        //   description: "Application that monitors your business",
+        //   class: "bms",
+        // },
       ],
     };
   },
@@ -261,7 +262,7 @@ export default {
 
 .capitan,
 .vwala {
-  clip-path: circle(30% at 50% 50%);
+  width: 60% !important;
 }
 
 .cssbuttons-io-button {
@@ -302,7 +303,7 @@ export default {
 
 .dsg,
 .fundspace {
-  width: 90% !important;
+  width: 60% !important;
 }
 
 .fundspace {
@@ -310,7 +311,7 @@ export default {
 }
 
 .richardson {
-  padding-top: 2rem;
+  width: 60% !important;
 }
 
 .bms {
